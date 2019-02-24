@@ -4,7 +4,7 @@
 
 ---
 
-新增Java互联网方面知识图谱，主要摘抄于[advanced-java]((https://github.com/doocs/advanced-java))
+* 新增Java互联网方面知识图谱，主要摘抄于[advanced-java](https://github.com/doocs/advanced-java)
 
 ### Java互联网知识图谱
 
